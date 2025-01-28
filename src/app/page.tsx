@@ -1,4 +1,3 @@
-import Image from "next/image";
 import { FloatingNav } from "./components/ui/NavBar";
 import Hero from "./components/Hero";
 import {AuroraBackground}  from "./components/ui/AuroraBackground";
